@@ -1,4 +1,10 @@
-# 対になる動作のプレフィクスとして"[]"を利用する
+---
+title: "対になる動作のプレフィクスとして [] を利用する"
+emoji: "💨"
+type: "tech" # tech: 技術記事 / idea: アイデア
+topics: ["vimtips"]
+published: true
+---
 
 Vimでは好みのキーバインドを自らで設定することができます。  
 例えば、以下の例は`j` `k`キーを`gj` `gk`に置き換え表示行でのカーソル移動を実現します。  
@@ -29,3 +35,5 @@ nnoremap ]q :cnext<CR>
 > ```
 
 まとめ kato-k (@uvrub)
+
+この記事は[Github](https://github.com/kato-k/vim-tips)上で管理されています。情報の加筆・修正・記事の追加を歓迎します。

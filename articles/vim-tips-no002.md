@@ -1,4 +1,10 @@
-# Unicodeをコードポイントから入力する
+---
+title: "Unicodeをコードポイントから入力する"
+emoji: "💨"
+type: "tech" # tech: 技術記事 / idea: アイデア
+topics: ["vimtips"]
+published: true
+---
 
 Vimの入力モードでは`<C-v>`を利用することで`<ESC>`等の制御文字を直接入力することができます。これは、Makefileなどを記述する際に設定に関係なくTab文字を入力するなどの使い方ができます。  
 同じく`<C-v>`では直接文字コードの入力が可能です。`:h i_CTRL_V_digit`  
@@ -23,3 +29,5 @@ inoremap <C-v>u <C-r>=nr2char(0x)<Left>
 > とやってみたら便利になるかも、とふと思った
 
 まとめ kato-k (@uvrub)
+
+この記事は[Github](https://github.com/kato-k/vim-tips)上で管理されています。情報の加筆・修正・記事の追加を歓迎します。

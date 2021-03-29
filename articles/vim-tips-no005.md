@@ -1,4 +1,10 @@
-# nNコマンドの挙動を自然にする
+---
+title: "nNコマンドの挙動を自然にする"
+emoji: "💨"
+type: "tech" # tech: 技術記事 / idea: アイデア
+topics: ["vimtips"]
+published: true
+---
 
 Vimの検索には、マッチを前方から行う`/`と後方から行う`?`があります。  
 マッチした対象の移動には`n``N`を利用しますが、`/`と`?`で移動の方向が変わり直感的でないことがあります。  
@@ -20,3 +26,5 @@ nnoremap <expr> N 'nN'[v:searchforward]
 > ```
 
 まとめ kato-k (@uvrub)
+
+この記事は[Github](https://github.com/kato-k/vim-tips)上で管理されています。情報の加筆・修正・記事の追加を歓迎します。
