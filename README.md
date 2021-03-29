@@ -50,3 +50,8 @@ Vim-jp Slack上の発言はCC-4.0ライセンスとされているが、記事�
 - 発言者の了承を取る
 
 PR is welcome
+
+## LICNESE
+
+記事内の引用部は[Vim-jp Slack](https://vim-jp.org/slacklog/)の発言です。  
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
