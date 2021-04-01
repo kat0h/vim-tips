@@ -13,6 +13,7 @@ Vim-jp Slackで話題に上ったVimの便利な使い方をまとめた記事�
 | [articles/vim-tips-no003.md](articles/vim-tips-no003.md) | カラースキームによって一部の行が塗りつぶされてしまったとき |
 | [articles/vim-tips-no004.md](articles/vim-tips-no004.md) | 動作の遅いVimを調査する |
 | [articles/vim-tips-no005.md](articles/vim-tips-no005.md) | nNコマンドの挙動を自然にする |
+| [articles/vim-tips-no006.md](articles/vim-tips-no006.md) | 細かい単位でUndoをする |
 
 ## 記事の書き方
 
