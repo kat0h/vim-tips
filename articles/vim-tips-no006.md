@@ -1,5 +1,5 @@
 ---
-title: "細かい単位でUndoをする"
+title: "【Vim】細かい単位でUndoをする"
 emoji: "💨" # 任意の絵文字を設定
 type: "tech" # tech: 技術記事
 topics: ["vimtips"] # Vim Topicと区別するため、"vimtips"のみ

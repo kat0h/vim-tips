@@ -1,5 +1,5 @@
 ---
-title: "動作の遅いVimを調査する"
+title: "【Vim】動作の遅いVimを調査する"
 emoji: "💨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["vimtips"]

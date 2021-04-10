@@ -1,5 +1,5 @@
 ---
-title: "Vim scriptの関数を探す"
+title: "【Vim】Vim scriptの関数を探す"
 emoji: "💨" # 任意の絵文字を設定
 type: "tech" # tech: 技術記事
 topics: ["vimtips"] # Vim Topicと区別するため、"vimtips"のみ

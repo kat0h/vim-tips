@@ -1,5 +1,5 @@
 ---
-title: "対になる動作のプレフィクスとして [] を利用する"
+title: "【Vim】対になる動作のプレフィクスとして [] を利用する"
 emoji: "💨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["vimtips"]

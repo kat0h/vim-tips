@@ -1,5 +1,5 @@
 ---
-title: "カラースキームによって一部の行が塗りつぶされてしまったとき"
+title: "【Vim】カラースキームによって一部の行が塗りつぶされてしまったとき"
 emoji: "💨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["vimtips"]

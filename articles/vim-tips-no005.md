@@ -1,5 +1,5 @@
 ---
-title: "nNコマンドの挙動を自然にする"
+title: "【Vim】nNコマンドの挙動を自然にする"
 emoji: "💨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["vimtips"]

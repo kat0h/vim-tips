@@ -1,5 +1,5 @@
 ---
-title: "Unicodeをコードポイントから入力する"
+title: "【Vim】Unicodeをコードポイントから入力する"
 emoji: "💨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["vimtips"]
